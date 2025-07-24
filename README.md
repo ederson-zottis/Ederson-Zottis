@@ -19,7 +19,7 @@ Minha stack de ferramentas me permite navegar com fluidez entre os dois mundos:
 ![Visual Basic](https://skillicons.dev/icons?i=visualstudio)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-**Automação Industrial & Chão de Fábrica (TA):**
+**Automação Industrial & (TA):**
 - ⚙️ **CLP:** Programação Avançada (Siemens TIA Portal, Step 7)
 - 🖥️ **IHM:** Desenvolvimento de Layouts e Sistemas de Supervisão
 - 🌐 **Redes Industriais:** Profinet, Profibus TCP-IP
