@@ -13,7 +13,7 @@ Minha stack de ferramentas me permite navegar com fluidez entre os dois mundos:
 **Desenvolvimento & Dados (TI):**
 ![Python](https://skillicons.dev/icons?i=py)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Node.js](https://skillicons.dev/icons?i=nodejs) <!-- Representando Node-RED -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="Node-RED" width="48">
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![Visual Basic](https://skillicons.dev/icons?i=visualstudio)
