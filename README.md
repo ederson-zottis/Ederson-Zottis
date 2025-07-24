@@ -13,7 +13,7 @@ Minha stack de ferramentas me permite navegar com fluidez entre os dois mundos:
 **Desenvolvimento & Dados (TI):**
 ![Python](https://skillicons.dev/icons?i=py)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-<svg width="48" height="48" xmlns="http://www.w3.org/2000/svg"><defs><clipPath id="r"><rect x="0" y="0" width="48" height="48" rx="6" ry="6"/></clipPath></defs><image href="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" x="0" y="0" width="48" height="48" clip-path="url(#r)"/></svg>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Node-red-icon.png" alt="Node-RED" width="48" height="48">
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![Visual Basic](https://skillicons.dev/icons?i=visualstudio)
