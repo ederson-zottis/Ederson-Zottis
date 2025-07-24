@@ -1,4 +1,4 @@
-# Olá, meu nome é Ederson Moraes 👋
+# Hello, world!!   Sou Ederson Zottis 👋
 
 Sou um especialista em Automação Industrial com mais de 20 anos de experiência em diagnóstico, programação de CLP e desenvolvimento de sistemas IHM. Minha paixão é atuar como a ponte entre a **Tecnologia da Automação (TA)** e a **Tecnologia da Informação (TI)**, transformando dados brutos do chão de fábrica em soluções inteligentes e eficientes.
 
@@ -13,7 +13,7 @@ Minha stack de ferramentas me permite navegar com fluidez entre os dois mundos:
 **Desenvolvimento & Dados (TI):**
 ![Python](https://skillicons.dev/icons?i=py)
 ![JavaScript](https://skillicons.dev/icons?i=js)
-![Node-RED](https://skillicons.dev/icons?i=nodered)
+[![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000?style=for-the-badge&logo=node-red&logoColor=white)](https://nodered.org)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![HTML5](https://skillicons.dev/icons?i=html)
 ![Visual Basic](https://skillicons.dev/icons?i=visualstudio)
